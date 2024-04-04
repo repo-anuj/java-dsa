@@ -9,9 +9,9 @@ public class conditions {
         if (a == b) {
             System.out.println("equal");
         } else if (a > b) {
-            System.out.println("greater");
+            System.out.println("a is greater");
         } else {
-            System.out.println("lesser");
+            System.out.println("a is lesser");
         }
     }
 }
